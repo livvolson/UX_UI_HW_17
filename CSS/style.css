@@ -16,7 +16,6 @@ ul{
     margin-left: auto;
 }
 section.heroImg{
-    height: 600px;
     padding: 25px;
 }
 .content{
@@ -32,4 +31,12 @@ footer ul{
     display: inline-block;
     vertical-align: top;
     text-align: center;
+    color:#FFFFFF;
+}
+p{
+    text-indent: 5%;
+}
+button{
+    margin: 0 auto;
+    display: block
 }
